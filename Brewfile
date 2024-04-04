@@ -1,0 +1,25 @@
+tap "buo/cask-upgrade"
+tap "homebrew/bundle"
+brew "ant"
+brew "bash"
+brew "coreutils"
+brew "gawk"
+brew "jq"
+brew "mas"
+brew "mosh"
+brew "nginx"
+brew "p7zip"
+brew "postgresql@14"
+brew "pre-commit"
+brew "the_silver_searcher"
+brew "wget"
+brew "yq"
+cask "amethyst"
+cask "google-cloud-sdk"
+cask "iterm2"
+cask "postman"
+cask "rawtherapee"
+cask "sourcetree", args: { appdir: "/Applications" }
+mas "Bitwarden", id: 1352778147
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
