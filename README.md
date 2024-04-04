@@ -1,8 +1,16 @@
-## tl;dr
+# tl;dr
 
-Install brew
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-# optionally fork dotfiles so you can modify to your own preferences
-git clone dotfiles
-cd dotfiles
-brew bundle
+Install Homebrew
+
+`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+### optionally fork so you can modify to your own preferences or just download the Brewfile someplace handy 
+
+`git clone git@github.com:novakps/dotfiles.git`
+
+`cd dotfiles`
+
+`brew bundle`
+
+# prelude emacs
+See https://prelude.emacsredux.com/en/latest/installation/
