@@ -13,4 +13,11 @@ Install Homebrew
 `brew bundle`
 
 # prelude emacs
+
 See https://prelude.emacsredux.com/en/latest/installation/
+
+`git clone git@github.com:novakps/dotfiles.git` if not done above
+
+`ln -s /path/to/dotfiles ~/.emacs.d`
+
+Start emacs
