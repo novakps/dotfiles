@@ -2,7 +2,7 @@
 
 Install Homebrew
 
-`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 ### optionally fork so you can modify to your own preferences or just download the Brewfile someplace handy 
 
