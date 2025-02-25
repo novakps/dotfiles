@@ -21,6 +21,7 @@ cask "firefox"
 cask "google-chrome"
 cask "google-cloud-sdk"
 cask "iterm2"
+cask "openscad"
 cask "postman"
 cask "rawtherapee"
 cask "sourcetree", args: { appdir: "/Applications" }
